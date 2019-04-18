@@ -61,8 +61,7 @@ docker run give.example.org/of/your/container:v0.2.1 bash
 
 ## Find Us
 
-* [GitHub](https://github.com/your/repository)
-* [Quay.io](https://quay.io/repository/your/docker-repository)
+* [GitHub](https://github.com/mmichel122/Docker101.git)
 
 ## Contributing
 
