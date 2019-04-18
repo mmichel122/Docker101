@@ -1,6 +1,6 @@
 # Docker httpd container
 
-A one paragraph description about the container.
+Demo Website File For Testing Purposes.
 
 ## Getting Started
 
